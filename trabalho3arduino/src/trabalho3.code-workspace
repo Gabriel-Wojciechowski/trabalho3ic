@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "esp",
+			"path": "../../../../../Home/Documents/PlatformIO/Projects/esp"
+		},
+		{
+			"name": "230215-214315-arduino-webserver",
+			"path": "../../../../../Home/Documents/PlatformIO/Projects/230215-214315-arduino-webserver"
+		}
+	],
+	"settings": {}
+}
